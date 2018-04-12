@@ -1,2 +1,2 @@
 # MedicWork
-Some work about Medical Image Analysis
+Some work about Medic
