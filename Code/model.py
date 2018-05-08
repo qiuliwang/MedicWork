@@ -17,6 +17,5 @@ y = tf.placeholder('float')
 
 # archi-1
 x1 = tf.reshape(x, shape = [-1, 20, 20, 6, 1])
-
-archi1_C1_conv = tf.nn.conv3d(x, W, strides = [1,5,5,3,1], padding = 'SAME')
-archi1_C1_weight = tf.Variable(tf.random_normal([3, 3, 3, 1, 32]))
+archi1_C1_weight = tf.Variable(tf.random_normal([5, 5, 3, 1, 64]))
+archi1_C1_conv = tf.nn.conv3d(x, archi1_C1_weight, strides = [1,1,1,1,1], padding = 'SAME')
