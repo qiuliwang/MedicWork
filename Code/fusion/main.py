@@ -14,13 +14,13 @@ from sphercity import modelsphercity
 from fully import modelfully
 
 from dataprepare import get_batch,get_train_and_test_filename, get_batch_withlabels, get_high_data, get_batch_withlabels_high
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 if __name__ =='__main__':
     batch_size =32
-    learning_rate = 0.01
+    learning_rate = 0.1
     keep_prob = 1
-    epoch = 5
+    epoch = 40
     # path = '/data0/LUNA/cubic_normalization_npy'
     path = 'NPY/'
 
@@ -57,40 +57,72 @@ if __name__ =='__main__':
     out_lobulation = tf.nn.relu(tf.add(tf.matmul(inputlobulation, w_lobulation), b_lobulation))
     out_spiculation = tf.nn.relu(tf.add(tf.matmul(inputspiculation, w_spiculation), b_spiculation))
 
-    net_out = tf.relu(tf.add (tf.add(out_fully , out_lobulation), tf.add(out_sphericity, out_spiculation)))
+    net_out = tf.nn.relu(out_fully + out_lobulation + out_sphericity + out_spiculation)
+
+    # net_out = tf.nn.relu(tf.add (tf.add(out_fully , out_lobulation), tf.add(out_sphericity, out_spiculation)))
 
     real_label = tf.placeholder(tf.float32, [None, 2])
+
+    # print('net out ', net_out.shape)
+    # print('real',real_label.shape)
     cross_entropy = tf.reduce_sum(tf.nn.softmax_cross_entropy_with_logits(logits=net_out, labels=real_label))
     #cross_entropy = -tf.reduce_sum(real_label * tf.log(net_out))
     net_loss = tf.reduce_mean(cross_entropy)
 
-    train_step = tf.train.MomentumOptimizer(self.learning_rate, 0.9).minimize(net_loss)
+    train_step = tf.train.AdadeltaOptimizer(learning_rate, 0.9).minimize(net_loss)
+    prediction = tf.nn.softmax(net_out)
 
-    correct_prediction = tf.equal(tf.argmax(net_out, 1), tf.argmax(real_label, 1))
+    correct_prediction = tf.equal(tf.argmax(prediction, 1), tf.argmax(real_label, 1))
     accruacy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
-    for i in range(epoch):
-        print(i)
-        random.shuffle(train_filenames)
-        for t in range(times):
-            batch_files = train_filenames[t * batch_size:(t+1) * batch_size]
-            batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label = get_batch_withlabels(batch_files)
-            out1 = templobulation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
-            # out2 = tempspiculation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
-            
+    times = 1
+    #        with tf.Session() as sess:
+    with tf.Session() as sess:
+        sess.run(tf.global_variables_initializer())
+        print('training times: ', times)
+        for i in range(epoch):
+            print(i)
+            random.shuffle(train_filenames)
+            for t in range(times):
+                batch_files = train_filenames[t * batch_size:(t+1) * batch_size]
+                batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label = get_batch_withlabels(batch_files)
+                out_lobulation = templobulation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+                out_spiculation = tempspiculation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+                out_sphericity = tempsphercity.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+                out_fully = tempfully.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+                # print('====')
+                # print(len(out_lobulation))
+                # print(out_lobulation[0])
+                # print(out_spiculation[0])
+                # print(out_sphericity[0])
+                # print(out_fully[0])
 
-            # lobulationrestore.predict(batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
-            # test_dict = {x: batch_data, sphercity: sphercityt, margin: margint, lobulation: lobulationt, spiculation: spiculationt, real_label: batch_label, keep_prob:1}
+                # print(batch_label.shape)
+                feed_dict = {inputsphercity: out_sphericity[0], inputlobulation: out_lobulation[0], inputspiculation: out_spiculation[0],
+                            inputfully: out_fully[0], real_label: batch_label}
+                res, _ = sess.run([net_out, train_step],feed_dict =feed_dict)
+                # print('res shape ', res.shape)
 
-            # acc_test,loss, aucpred = sess.run([accruacy,net_loss, prediction],feed_dict=test_dict)
-            # aucscore = tf.metric.auc(test_label, prediction)
-            # print('accuracy  is %f' % acc_test)
+
+            batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label = get_batch_withlabels(test_filenames)
+
+            out_lobulation = templobulation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+            out_spiculation = tempspiculation.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+            out_sphericity = tempsphercity.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+            out_fully = tempfully.pred( batch_data, sphercityt, margint, lobulationt, spiculationt, batch_label)
+
+            test_dict = {inputsphercity: out_sphericity[0], inputlobulation: out_lobulation[0], inputspiculation: out_spiculation[0],
+                            inputfully: out_fully[0], real_label: batch_label}
+            # print(len(out_sphericity))
+            # print(out_sphericity[0].shape)
 
 
-    #test_path = '../../data/cubic_normalization_test'
-    # test_size = 0.1
-    # seed=121
+            countx = 0
+            for one in test_filenames:
+                if 'low' in one:
+                    countx += 1
+            print('precent: ', countx / len(test_filenames))
+            acc_test,loss = sess.run([accruacy,net_loss],feed_dict=test_dict)
+            print('acc is %f, loss it %f '%(acc_test, loss))
 
-    # print(" begin...")
-    # model = model(learning_rate,keep_prob,batch_size,80)
-    # model.inference(path,0, test_size, seed, True)
+
