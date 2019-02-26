@@ -1,7 +1,0 @@
-VISCERAL Detection2
-
-FTP login info to download the VISCERAL Detection2 data set:
-
-IP: 153.109.124.90
-user: visceral-read
-pw: vi13Read

@@ -76,7 +76,9 @@ def resample(image, scan, new_spacing=[1,1,1]):
     new_shape = np.round(new_real_shape)
     real_resize_factor = new_shape / image.shape
     new_spacing = spacing / real_resize_factor
+ 
     image = scipy.ndimage.interpolation.zoom(image, real_resize_factor, mode='nearest')
+ 
     return image, new_spacing
 
 # pix_resampled, spaceing = resample(first_patient_pixels, first_patient, [1, 1, 1])
