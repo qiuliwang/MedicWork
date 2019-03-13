@@ -1,0 +1,1200 @@
+accuracy: 0.3150899net_loss: 0.77045095 5.372479
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7620884 5.3934746
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.77193373 5.403935
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.77128583 5.4057746
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7543201 5.402792
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7805746 5.4036474
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7508215 5.405303
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76247597 5.402693
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7472289 5.403541
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7775723 5.4048796
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.75378335 5.405784
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.8020174 5.4048243
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7676052 5.4082274
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.78197247 5.4054337
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7846923 5.404447
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7815172 5.4058433
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.78521466 5.4047246
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7726041 5.405816
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7594388 5.40426
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7556787 5.40525
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.748918 5.4042406
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7676445 5.404186
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7783124 5.403642
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7717092 5.406247
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7850805 5.4061313
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7562309 5.405669
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.733094 5.404391
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.78891087 5.403403
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76659346 5.4062505
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7483144 5.407907
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7512113 5.4032164
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76571435 5.4049215
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7955072 5.4060555
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7569251 5.403863
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.771902 5.402825
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.75050694 5.404659
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7429434 5.405918
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.78435457 5.405748
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.77361864 5.4026566
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7454321 5.403404
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7390026 5.4021926
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7591032 5.40051
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7808554 5.4070826
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7792196 5.415401
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76046294 5.396101
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76198673 5.394755
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.76566005 5.392532
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.71924704 5.3703756
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7529894 5.393381
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7254445 5.3725686
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7285904 5.368266
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7496081 5.392
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7465247 5.386428
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.72872347 5.368577
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7720725 5.405002
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7365677 5.376025
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.72267723 5.372668
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.74140036 5.369315
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.71272606 5.356234
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.7318403 5.3646874
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3150899net_loss: 0.72659314 5.3626404
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.74745893net_loss: 0.6359886 5.322944
+high accuracy: [0.6923077]
+low accuracy: [0.772831]
+accuracy: 0.65598124net_loss: 0.6644653 5.360813
+high accuracy: [0.89330024]
+low accuracy: [0.54680365]
+accuracy: 0.43862393net_loss: 0.7593271 5.3912826
+high accuracy: [0.99255586]
+low accuracy: [0.18378995]
+accuracy: 0.67005473net_loss: 0.6574188 5.372412
+high accuracy: [0.9280397]
+low accuracy: [0.55136985]
+accuracy: 0.79358876net_loss: 0.55713636 5.317504
+high accuracy: [0.8064516]
+low accuracy: [0.7876712]
+accuracy: 0.511337net_loss: 0.72998536 5.3554587
+high accuracy: [0.9801489]
+low accuracy: [0.2956621]
+accuracy: 0.6747459net_loss: 0.6176716 5.3285227
+high accuracy: [0.9379653]
+low accuracy: [0.55365294]
+accuracy: 0.8240813net_loss: 0.51712435 5.3028092
+high accuracy: [0.69727045]
+low accuracy: [0.88242006]
+accuracy: 0.72400314net_loss: 0.6040979 5.332783
+high accuracy: [0.86848634]
+low accuracy: [0.65753424]
+accuracy: 0.5066458net_loss: 0.75259566 5.3523307
+high accuracy: [0.99255586]
+low accuracy: [0.28310502]
+accuracy: 0.72009385net_loss: 0.5851235 5.208479
+high accuracy: [0.9156327]
+low accuracy: [0.63013697]
+accuracy: 0.5316654net_loss: 0.72625107 5.3197165
+high accuracy: [0.98511165]
+low accuracy: [0.32305935]
+accuracy: 0.47458953net_loss: 0.8128232 5.366024
+high accuracy: [0.99255586]
+low accuracy: [0.23630136]
+accuracy: 0.52775604net_loss: 0.70605934 5.2674375
+high accuracy: [0.9751861]
+low accuracy: [0.3219178]
+accuracy: 0.51602817net_loss: 0.7363174 5.3072567
+high accuracy: [0.9677419]
+low accuracy: [0.30821916]
+accuracy: 0.51993746net_loss: 0.73429406 5.2649546
+high accuracy: [0.9801489]
+low accuracy: [0.30821916]
+accuracy: 0.6872557net_loss: 0.5888895 5.270422
+high accuracy: [0.9181141]
+low accuracy: [0.5810502]
+accuracy: 0.6645817net_loss: 0.60057575 5.2163725
+high accuracy: [0.9255583]
+low accuracy: [0.54452056]
+accuracy: 0.50977325net_loss: 0.7447291 5.301476
+high accuracy: [0.98263025]
+low accuracy: [0.29223743]
+accuracy: 0.8122102net_loss: 0.5255307 5.1970353
+high accuracy: [0.8635236]
+low accuracy: [0.7890011]
+accuracy: 0.52472955net_loss: 0.76839215 5.2839055
+high accuracy: [0.99255586]
+low accuracy: [0.3131313]
+accuracy: 0.64760435net_loss: 0.60670406 5.2019105
+high accuracy: [0.96277916]
+low accuracy: [0.5050505]
+accuracy: 0.6174652net_loss: 0.6366649 5.2416306
+high accuracy: [0.9776675]
+low accuracy: [0.45454547]
+accuracy: 0.64605874net_loss: 0.60822713 5.227007
+high accuracy: [0.9528536]
+low accuracy: [0.5072952]
+accuracy: 0.690881net_loss: 0.5791356 5.1819296
+high accuracy: [0.95781636]
+low accuracy: [0.5701459]
+accuracy: 0.7024729net_loss: 0.5702523 5.1964254
+high accuracy: [0.9404467]
+low accuracy: [0.59483725]
+accuracy: 0.6622875net_loss: 0.59181553 5.204765
+high accuracy: [0.96526057]
+low accuracy: [0.5252525]
+accuracy: 0.7990726net_loss: 0.5162035 5.1576633
+high accuracy: [0.8784119]
+low accuracy: [0.7631874]
+accuracy: 0.56414217net_loss: 0.6809181 5.2624726
+high accuracy: [0.98759305]
+low accuracy: [0.37261504]
+accuracy: 0.5309119net_loss: 0.755601 5.3045316
+high accuracy: [0.99255586]
+low accuracy: [0.32211]
+accuracy: 0.687017net_loss: 0.5727493 5.2155786
+high accuracy: [0.96526057]
+low accuracy: [0.56116724]
+accuracy: 0.7233385net_loss: 0.5635446 5.1836762
+high accuracy: [0.9478908]
+low accuracy: [0.6217733]
+accuracy: 0.7527048net_loss: 0.54242045 5.183037
+high accuracy: [0.9057072]
+low accuracy: [0.68350166]
+accuracy: 0.6282844net_loss: 0.615467 5.2555337
+high accuracy: [0.96526057]
+low accuracy: [0.4758698]
+accuracy: 0.6499227net_loss: 0.60895944 5.249551
+high accuracy: [0.9677419]
+low accuracy: [0.50617284]
+accuracy: 0.5904173net_loss: 0.65870434 5.236479
+high accuracy: [0.98263025]
+low accuracy: [0.4130191]
+accuracy: 0.58268934net_loss: 0.67684555 5.302196
+high accuracy: [0.98511165]
+low accuracy: [0.4006734]
+accuracy: 0.6360124net_loss: 0.6098628 5.2204313
+high accuracy: [0.98263025]
+low accuracy: [0.4792368]
+accuracy: 0.7619784net_loss: 0.53649706 5.1634607
+high accuracy: [0.9305211]
+low accuracy: [0.6857464]
+accuracy: 0.7658424net_loss: 0.5362053 5.186882
+high accuracy: [0.9205955]
+low accuracy: [0.6958474]
+accuracy: 0.54945904net_loss: 0.68423337 5.292959
+high accuracy: [0.9975186]
+low accuracy: [0.34680134]
+accuracy: 0.67774343net_loss: 0.5907836 5.216609
+high accuracy: [0.96029776]
+low accuracy: [0.54994386]
+accuracy: 0.6027821net_loss: 0.6423754 5.264557
+high accuracy: [0.98263025]
+low accuracy: [0.43097642]
+accuracy: 0.73106647net_loss: 0.5464641 5.166231
+high accuracy: [0.9379653]
+low accuracy: [0.637486]
+accuracy: 0.73493046net_loss: 0.5522591 5.189886
+high accuracy: [0.942928]
+low accuracy: [0.640853]
+accuracy: 0.69629055net_loss: 0.58164173 5.2091446
+high accuracy: [0.95533496]
+low accuracy: [0.57912457]
+accuracy: 0.6591963net_loss: 0.59676737 5.220822
+high accuracy: [0.9751861]
+low accuracy: [0.51627386]
+accuracy: 0.7411128net_loss: 0.55066043 5.184958
+high accuracy: [0.9255583]
+low accuracy: [0.65768796]
+accuracy: 0.7117465net_loss: 0.55361897 5.1933007
+high accuracy: [0.89826304]
+low accuracy: [0.62738496]
+accuracy: 0.7163833net_loss: 0.57524335 5.200676
+high accuracy: [0.9478908]
+low accuracy: [0.6116723]
+accuracy: 0.7727975net_loss: 0.5262913 5.166121
+high accuracy: [0.9131514]
+low accuracy: [0.70931536]
+accuracy: 0.6576507net_loss: 0.61428034 5.23976
+high accuracy: [0.96526057]
+low accuracy: [0.5185185]
+accuracy: 0.7248841net_loss: 0.5664139 5.197947
+high accuracy: [0.9454094]
+low accuracy: [0.6251403]
+accuracy: 0.56800616net_loss: 0.69113916 5.2923317
+high accuracy: [0.98759305]
+low accuracy: [0.3782267]
+accuracy: 0.7272025net_loss: 0.55742687 5.1827126
+high accuracy: [0.9379653]
+low accuracy: [0.6318743]
+accuracy: 0.5795981net_loss: 0.6898825 5.3155704
+high accuracy: [0.9801489]
+low accuracy: [0.39842874]
+accuracy: 0.7380216net_loss: 0.55021924 5.1819644
+high accuracy: [0.95533496]
+low accuracy: [0.63973063]
+accuracy: 0.7264297net_loss: 0.5583478 5.1887712
+high accuracy: [0.942928]
+low accuracy: [0.6285073]
+accuracy: 0.7287481net_loss: 0.5621181 5.197834
+high accuracy: [0.9528536]
+low accuracy: [0.62738496]
+accuracy: 0.6893354net_loss: 0.58284724 5.2097373
+high accuracy: [0.96277916]
+low accuracy: [0.56565654]
+accuracy: 0.77202475net_loss: 0.52830136 5.168713
+high accuracy: [0.9305211]
+low accuracy: [0.7003367]
+accuracy: 0.66074187net_loss: 0.5997128 5.2356234
+high accuracy: [0.96526057]
+low accuracy: [0.52300787]
+accuracy: 0.6885626net_loss: 0.59116197 5.2207127
+high accuracy: [0.96526057]
+low accuracy: [0.5634119]
+accuracy: 0.6506955net_loss: 0.62642926 5.2509947
+high accuracy: [0.9702233]
+low accuracy: [0.50617284]
+accuracy: 0.7233385net_loss: 0.5606931 5.1888113
+high accuracy: [0.95533496]
+low accuracy: [0.6184063]
+accuracy: 0.7673879net_loss: 0.5325102 5.1671066
+high accuracy: [0.9404467]
+low accuracy: [0.6891134]
+accuracy: 0.70401853net_loss: 0.5768192 5.20225
+high accuracy: [0.96029776]
+low accuracy: [0.58810323]
+accuracy: 0.7867079net_loss: 0.5072298 5.1432967
+high accuracy: [0.86848634]
+low accuracy: [0.74971944]
+accuracy: 0.70710975net_loss: 0.5775694 5.196761
+high accuracy: [0.9528536]
+low accuracy: [0.5959596]
+accuracy: 0.6839258net_loss: 0.5949797 5.2302194
+high accuracy: [0.9702233]
+low accuracy: [0.5544332]
+accuracy: 0.63292116net_loss: 0.64393395 5.271833
+high accuracy: [0.9702233]
+low accuracy: [0.48035914]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3114374net_loss: 1.0018241 5.6327486
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.3200953net_loss: 0.9931662 5.613987
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30716464net_loss: 1.006097 5.557143
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
+accuracy: 0.30981594net_loss: 1.0034456 5.618096
+high accuracy: [1.0]
+low accuracy: [0.0]
